@@ -43,10 +43,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="1280" height="640" alt="git (1)" src="Battery Calculator — Know Your Battery Percentage. Again. - Google Chrome 9_13_2026 3_43_25 PM" />
-*Add caption explaining what this shows*
+![Home Psge](home.png) 
+![output Psge](output.png)
 
-<img width="1280" height="640" alt="git (1)" src="Battery Calculator — Know Your Battery Percentage. Again. - Google Chrome 9_13_2026 3_43_25 PM" />
 
 
 ---
